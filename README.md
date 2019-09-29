@@ -76,34 +76,6 @@ the portfolio you made last unit with a mobile-responsive layout.
 
 9. **Protip**: Use the Chrome extensions [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) and [Browser Width](https://chrome.google.com/webstore/detail/browser-width/mlnegepkjlccabakompdmbcmdieaideh) to see the browser dimensions in Chrome.
 
-10. Deploy your new portfolio (now with media queries!) to GitHub Pages.
-
-### Submitting Your Work on [BootCampSpot](https://www.bootcampspot-v2.com/)
-
-1. Submit the GitHub links to your portfolio repositories on GitHub.
-
-2. Submit the link to your (GitHub Pages) deployed site in the same input field.
-
-### BONUS
-
-* Incorporate CSS animations in your portfolio. [More info here](http://www.w3schools.com/css/css3_animations.asp).
-
-### Reminder: Submission on BCS
-
-* Please submit both the deployed Github.io link to your homework AND the link to the Github Repository!
-
-- - -
-
-### Minimum Requirements
-
-Attempt to complete homework assignment as described in instructions. If unable to complete certain portions, please pseudocode these portions to describe what remains to be completed.
-
-- - -
-
-### One More Thing
-
-If you have any questions about this project or the material we have covered, please post them in the community channels in slack so that your fellow developers can help you! If you're still having trouble, you can come to office hours for assistance from your instructor and TAs.
-
-**Good Luck!**
+10. Incorporate CSS animations in your portfolio. [More info here](http://www.w3schools.com/css/css3_animations.asp).
 
 https://db302003.github.io/Bootstrap-Portfolio/
